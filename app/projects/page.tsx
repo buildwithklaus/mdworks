@@ -17,7 +17,7 @@ export default function ProjectsPage() {
         eyebrow="Our Portfolio"
         title="Projects That Speak for Themselves"
         description="Explore our completed work across commercial, residential, and infrastructure sectors."
-        image="/images/projects/projects-hero.jpg"
+        image="/images/hero1.avif"
       />
 
       <section className="py-24">

@@ -7,16 +7,29 @@ export interface GalleryImage {
 }
 
 export const galleryImages: GalleryImage[] = [
-  { id: "g1", src: "/images/gallery/site-1.jpg", alt: "Construction site with crane", category: "Sites", height: "tall" },
-  { id: "g2", src: "/images/gallery/finished-1.jpg", alt: "Completed commercial building", category: "Finished", height: "medium" },
-  { id: "g3", src: "/images/gallery/workers-1.jpg", alt: "Construction workers on site", category: "Workers", height: "short" },
-  { id: "g4", src: "/images/gallery/machinery-1.jpg", alt: "Excavator on construction site", category: "Machinery", height: "medium" },
-  { id: "g5", src: "/images/gallery/before-after-1.jpg", alt: "Before and after renovation", category: "Before & After", height: "tall" },
-  { id: "g6", src: "/images/gallery/site-2.jpg", alt: "Foundation work in progress", category: "Sites", height: "medium" },
-  { id: "g7", src: "/images/gallery/finished-2.jpg", alt: "Completed residential estate", category: "Finished", height: "short" },
-  { id: "g8", src: "/images/gallery/workers-2.jpg", alt: "Engineer reviewing blueprints on site", category: "Workers", height: "tall" },
-  { id: "g9", src: "/images/gallery/machinery-2.jpg", alt: "Concrete mixer truck pouring foundation", category: "Machinery", height: "short" },
-  { id: "g10", src: "/images/gallery/site-3.jpg", alt: "Road construction site", category: "Sites", height: "medium" },
-  { id: "g11", src: "/images/gallery/finished-3.jpg", alt: "Completed office park exterior", category: "Finished", height: "tall" },
-  { id: "g12", src: "/images/gallery/before-after-2.jpg", alt: "Before and after hotel renovation", category: "Before & After", height: "medium" },
+  // Ciala Residences
+  { id: "ciala-1", src: "/images/ciala1.jpg", alt: "Ciala Residences construction site", category: "Sites", height: "tall" },
+  { id: "ciala-2", src: "/images/ciala2.jpg", alt: "Ciala Residences construction progress", category: "Sites", height: "medium" },
+  { id: "ciala-3", src: "/images/ciala3.jpg", alt: "Ciala Residences development", category: "Sites", height: "short" },
+  { id: "ciala-4", src: "/images/ciala4.jpg", alt: "Ciala Residences site work", category: "Sites", height: "medium" },
+
+  // Kabete House Renovation
+  { id: "kabete-1", src: "/images/kabete/one.jpeg", alt: "Kabete house renovation", category: "Finished", height: "tall" },
+  { id: "kabete-2", src: "/images/kabete/two.jpeg", alt: "Kabete house renovation detail", category: "Finished", height: "short" },
+  { id: "kabete-3", src: "/images/kabete/three.jpeg", alt: "Kabete house renovation interior", category: "Finished", height: "medium" },
+  { id: "kabete-4", src: "/images/kabete/four.jpeg", alt: "Kabete house renovation finish", category: "Finished", height: "tall" },
+  { id: "kabete-5", src: "/images/kabete/five.jpeg", alt: "Kabete house renovation exterior", category: "Finished", height: "short" },
+  { id: "kabete-6", src: "/images/kabete/six.jpeg", alt: "Kabete house renovation completed", category: "Finished", height: "medium" },
+  { id: "kabete-7", src: "/images/kabete/seven.jpeg", alt: "Kabete house renovation final result", category: "Finished", height: "tall" },
+
+  // AMG Mall
+  { id: "amg-1", src: "/images/amg/one.jpeg", alt: "AMG Mall construction site", category: "Sites", height: "medium" },
+  { id: "amg-2", src: "/images/amg/two.jpeg", alt: "AMG Mall cladding work", category: "Sites", height: "short" },
+  { id: "amg-3", src: "/images/amg/three.jpeg", alt: "AMG Mall tiling progress", category: "Sites", height: "tall" },
+  { id: "amg-4", src: "/images/amg/four.jpeg", alt: "AMG Mall gypsum works", category: "Sites", height: "medium" },
+  { id: "amg-5", src: "/images/amg/five.jpeg", alt: "AMG Mall staircase construction", category: "Sites", height: "short" },
+  { id: "amg-6", src: "/images/amg/six.jpeg", alt: "AMG Mall interior progress", category: "Sites", height: "tall" },
+  { id: "amg-7", src: "/images/amg/seven.jpeg", alt: "AMG Mall construction detail", category: "Sites", height: "medium" },
+  { id: "amg-8", src: "/images/amg/eight.jpeg", alt: "AMG Mall site progress", category: "Sites", height: "short" },
+  { id: "amg-9", src: "/images/amg/nine.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
 ];

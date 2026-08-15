@@ -10,7 +10,7 @@ const info = [
   {
     icon: Phone,
     title: "Phone Number",
-    lines: ["+254 700 000 000", "+254 711 000 000"],
+    lines: ["+254 705 818 181", "+254 711 000 000"],
   },
   {
     icon: Mail,

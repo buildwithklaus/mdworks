@@ -79,7 +79,7 @@ export default function Footer() {
               123 Industrial Ave, Nairobi, Kenya
             </li>
             <li className="flex items-center gap-3">
-              <Phone size={18} className="text-primary-400" /> +254 700 000 000
+              <Phone size={18} className="text-primary-400" /> +254 705 818 181
             </li>
             <li className="flex items-center gap-3">
               <Mail size={18} className="text-primary-400" /> info@mdworks.com

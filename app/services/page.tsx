@@ -21,7 +21,7 @@ export default function ServicesPage() {
         eyebrow="Our Services"
         title="End-to-End Construction & Engineering Solutions"
         description="Every service you need, delivered by one accountable, experienced team."
-        image="/images/services/services-hero.jpg"
+        image="/images/hero1.avif"
       />
 
       <section className="py-24">

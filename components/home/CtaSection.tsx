@@ -17,7 +17,7 @@ export default function CtaSection() {
           <Button href="/contact" variant="secondary" size="lg">
             Request a Quote
           </Button>
-          <Button href="tel:+254700000000" variant="outline" size="lg" icon={false}>
+          <Button href="tel:+254705818181" variant="outline" size="lg" icon={false}>
             Call Us Now
           </Button>
         </div>

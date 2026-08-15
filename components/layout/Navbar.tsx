@@ -75,7 +75,7 @@ export default function Navbar() {
               scrolled ? "text-primary-500" : "text-white"
             )}
           >
-            <Phone size={18} /> +254 700 000 000
+            <Phone size={18} /> +254 705 818 181
           </a>
           <Button href="/contact" variant="primary" size="sm">
             Get a Quote
