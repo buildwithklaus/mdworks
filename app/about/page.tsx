@@ -21,7 +21,7 @@ export default function AboutPage() {
         eyebrow="About MD Works"
         title="Building With Purpose, Integrity, and Precision"
         description="A decade of construction and engineering excellence, powered by people who care about the outcome."
-        image="/images/hero2.avif"
+        image="/images/about/hero.jpeg"
       />
       <OurStory />
       <MissionVision />
