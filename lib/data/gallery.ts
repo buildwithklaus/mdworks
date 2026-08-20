@@ -35,7 +35,7 @@ export const galleryImages: GalleryImage[] = [
   { id: "amg-7", src: "/images/amg/seven.jpeg", alt: "AMG Mall construction detail", category: "Sites", height: "medium" },
   { id: "amg-8", src: "/images/amg/eight.jpeg", alt: "AMG Mall site progress", category: "Sites", height: "short" },
   { id: "amg-9", src: "/images/amg/nine.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
-  { id: "amg-9", src: "/images/amg/ten.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
-  { id: "amg-9", src: "/images/amg/eleven.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
-  { id: "amg-9", src: "/images/amg/twelve.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
+  { id: "amg-10", src: "/images/amg/ten.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
+  { id: "amg-11", src: "/images/amg/eleven.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
+  { id: "amg-12", src: "/images/amg/twelve.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
 ];
