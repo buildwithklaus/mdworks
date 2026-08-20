@@ -21,6 +21,9 @@ export const galleryImages: GalleryImage[] = [
   { id: "kabete-5", src: "/images/kabete/five.jpeg", alt: "Kabete house renovation exterior", category: "Finished", height: "short" },
   { id: "kabete-6", src: "/images/kabete/six.jpeg", alt: "Kabete house renovation completed", category: "Finished", height: "medium" },
   { id: "kabete-7", src: "/images/kabete/seven.jpeg", alt: "Kabete house renovation final result", category: "Finished", height: "tall" },
+   { id: "kabete-8", src: "/images/kabete/eight.jpeg", alt: "Kabete house renovation final result", category: "Finished", height: "tall" },
+    { id: "kabete-9", src: "/images/kabete/nine.jpeg", alt: "Kabete house renovation final result", category: "Finished", height: "tall" },
+
 
   // AMG Mall
   { id: "amg-1", src: "/images/amg/one.jpeg", alt: "AMG Mall construction site", category: "Sites", height: "medium" },
@@ -32,4 +35,7 @@ export const galleryImages: GalleryImage[] = [
   { id: "amg-7", src: "/images/amg/seven.jpeg", alt: "AMG Mall construction detail", category: "Sites", height: "medium" },
   { id: "amg-8", src: "/images/amg/eight.jpeg", alt: "AMG Mall site progress", category: "Sites", height: "short" },
   { id: "amg-9", src: "/images/amg/nine.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
+  { id: "amg-9", src: "/images/amg/ten.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
+  { id: "amg-9", src: "/images/amg/eleven.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
+  { id: "amg-9", src: "/images/amg/twelve.jpeg", alt: "AMG Mall development", category: "Sites", height: "tall" },
 ];

@@ -33,6 +33,11 @@ export const projects: Project[] = [
       "/images/kabete/five.jpeg",
       "/images/kabete/six.jpeg",
       '/images/kabete/seven.jpeg',
+      '/images/kabete/eight.jpeg',
+      '/images/kabete/nine.jpeg',
+      
+      
+
     ],
     location: "Kabete, Nairobi",
     year: 2026,
@@ -44,8 +49,8 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    slug: "amg-mall",
-    title: "AMG Mall",
+    slug: "amg-realtors-finishes",
+    title: "AMG Realtors Finishes",
     category: "Commercial",
     image: "/images/amg/nine.jpeg",
     gallery: [
@@ -58,11 +63,15 @@ export const projects: Project[] = [
       "/images/amg/seven.jpeg",
       "/images/amg/eight.jpeg",
       '/images/amg/nine.jpeg',
+      '/images/amg/ten.jpeg',
+      '/images/amg/eleven.jpeg',
+      '/images/amg/twelve.jpeg',
+
     ],
     location: "Nairobi, Kenya",
     year: 2026,
     status: "ongoing",
-    client: "AMG Mall",
+    client: "AMG Realtors",
     services: ["Cladding", "Tiling", "Gypsum Works", "Staircase Construction"],
     description:
       "MD Works is delivering a comprehensive finishing scope for AMG Mall, encompassing cladding, tiling, gypsum ceiling and partition works, and staircase construction. Kicked off in May 2026, the project is progressing steadily as our team applies precision craftsmanship to elevate the mall's interior and exterior finishes, contributing to a modern, durable, and visually striking commercial space.",
