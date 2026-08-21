@@ -52,11 +52,15 @@ export default function ContactInfo() {
             href="#"
             aria-label="Facebook"
             className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 text-white hover:bg-primary-500"
+                target="_blank"
+    rel="noopener noreferrer"
           >
             <FaFacebookF size={15} />
           </a>
           <a
             href="https://www.instagram.com/metrics.design?igsi=MW92aHRhM3F5OXB0eQ%3D%3D&utm_source=qr"
+                target="_blank"
+    rel="noopener noreferrer"
             aria-label="Instagram"
             className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 text-white hover:bg-primary-500"
           >
@@ -65,6 +69,8 @@ export default function ContactInfo() {
       
                       <a
                         href="https://www.tiktok.com/@metrics.designs?_r=1&_t=ZS-994ASAEcClJ"
+                            target="_blank"
+    rel="noopener noreferrer"
                         aria-label="Tiktok"
                         className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 transition-colors hover:bg-primary-500"
                       >
