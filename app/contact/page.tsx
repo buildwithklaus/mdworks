@@ -20,7 +20,7 @@ export default function ContactPage() {
         eyebrow="Get In Touch"
         title="Let's Build Something Great Together"
         description="Reach out for a free consultation and detailed project quote."
-        image="/images/contact/contact-hero.jpg"
+        image="/images/contact/hero1.jpg"
       />
 
       <section className="py-24">
@@ -53,7 +53,7 @@ export default function ContactPage() {
           </h2>
           <p className="text-white/80">Call our team now for immediate assistance.</p>
           <Button href="tel:+254700000000" variant="secondary" size="lg" icon={false}>
-            Call +254 700 000 000
+            Call 254 705 818 181
           </Button>
         </Container>
       </section>
