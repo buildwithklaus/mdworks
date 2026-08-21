@@ -25,9 +25,9 @@ export const team: TeamMember[] = [
     bio: "A licensed civil engineer with a decade of infrastructure experience, Samuel leads structural design and technical compliance.",
   },
   {
-    name: "Edwin Wafula",
-    role: "Head of Project Management",
-    photo: "/images/team/grace-achieng.jpg",
-    bio: "Grace coordinates cross-functional teams and client communication, keeping every project transparent from groundbreaking to handover.",
-  },
+  name: "Edwin Wafula",
+  role: "Accountant",
+  photo: "/images/about/wafula.jpeg",
+  bio: "Edwin manages the company's financial operations, ensuring accurate financial reporting, responsible budgeting, and sound financial management across all projects.",
+},
 ];
