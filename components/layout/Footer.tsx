@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Mail, MapPin, Phone } from "lucide-react";
-import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa6";
+import { FaFacebookF, FaInstagram, FaTiktok } from "react-icons/fa6";
 import Container from "@/components/ui/Container";
 
 export default function Footer() {
@@ -29,18 +29,19 @@ export default function Footer() {
               <FaFacebookF size={16} />
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/metrics.design?igsi=MW92aHRhM3F5OXB0eQ%3D%3D&utm_source=qr"
               aria-label="Instagram"
               className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 transition-colors hover:bg-primary-500"
             >
               <FaInstagram size={16} />
             </a>
             <a
-              href="#"
-              aria-label="LinkedIn"
+              href="https://www.tiktok.com/@metrics.designs?_r=1&_t=ZS-994ASAEcClJ"
+              aria-label="Tiktok"
               className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 transition-colors hover:bg-primary-500"
             >
-              <FaLinkedinIn size={16} />
+             
+              <FaTiktok size={16} />
             </a>
           </div>
         </div>
