@@ -27,7 +27,7 @@ export const team: TeamMember[] = [
   {
   name: "Edwin Wafula",
   role: "Accountant",
-  photo: "/images/about/wafula.jpeg",
+  photo: "/images/about/dwin.jpg",
   bio: "Edwin manages the company's financial operations, ensuring accurate financial reporting, responsible budgeting, and sound financial management across all projects.",
 },
 ];
