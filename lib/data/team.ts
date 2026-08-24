@@ -13,8 +13,8 @@ export const team: TeamMember[] = [
     bio: "With over 20 years in construction and civil engineering, Michael founded MD Works to bring uncompromising quality and integrity to every build.",
   },
   {
-    name: "Erick",
-    role: "Chief Operations Officer",
+    name: "Erick Ayako",
+    role: "Chief Architect",
     photo: "/images/team/diana-wanjiru.jpg",
     bio: "Diana oversees day-to-day operations, ensuring every project runs on schedule, on budget, and to the highest safety standards.",
   },
