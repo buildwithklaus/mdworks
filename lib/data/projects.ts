@@ -77,4 +77,27 @@ export const projects: Project[] = [
       "MD Works is delivering a comprehensive finishing scope for AMG Mall, encompassing cladding, tiling, gypsum ceiling and partition works, and staircase construction. Kicked off in May 2026, the project is progressing steadily as our team applies precision craftsmanship to elevate the mall's interior and exterior finishes, contributing to a modern, durable, and visually striking commercial space.",
     featured: true,
   },
+  {
+  slug: "entada",
+  title: "Entada",
+  category: "Residential",
+  image: "/images/entada/six.jpeg",
+  gallery: [
+    "/images/entada/one.jpeg",
+    "/images/entada/two.jpeg",
+    "/images/entada/three.jpeg",
+    "/images/entada/four.jpeg",
+    "/images/entada/five.jpeg",
+    "/images/entada/six.jpeg",
+    "/images/entada/seven.jpeg",
+  ],
+  location: "Kisumu, Kenya",
+  year: 2022,
+  status: "completed",
+  client: "Private Client",
+  services: ["Residential Projects", "Construction", "Project Management"],
+  description:
+    "MD Works delivered the construction of a residential house in Entada, Kisumu. The project was undertaken between 2021 and 2022, covering the construction works required to deliver a complete and functional home. Through careful project execution and attention to quality, MD Works transformed the client's vision into a finished residential development.",
+  featured: true,
+},
 ];

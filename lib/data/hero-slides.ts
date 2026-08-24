@@ -25,7 +25,7 @@ export const heroSlides: HeroSlide[] = [
   },
   {
     id: "slide-3",
-    image: "/images/hero3.avif",
+    image: "/images/ciala/three.jpeg",
     eyebrow: "Infrastructure Development",
     title: "Building the Backbone of Growing Communities",
     description:
