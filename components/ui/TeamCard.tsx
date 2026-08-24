@@ -13,7 +13,7 @@ export default function TeamCard({ member, index }: { member: TeamMember; index:
       transition={{ duration: 0.5, delay: index * 0.1 }}
       className="group overflow-hidden rounded-2xl bg-white shadow-card transition-shadow hover:shadow-card-hover"
     >
-      <div className="relative h-72 overflow-hidden">
+      <div className="relative h-100 overflow-hidden">
         <Image
           src={member.photo}
           alt={member.name}

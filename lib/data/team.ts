@@ -8,7 +8,7 @@ export interface TeamMember {
 export const team: TeamMember[] = [
   {
     name: "Dennis Bello",
-    role: "Founder & CEO",
+    role: "Construction Manager",
     photo: "/images/team/bello1.jpg",
     bio: "With over 20 years in construction and civil engineering, Michael founded MD Works to bring uncompromising quality and integrity to every build.",
   },
