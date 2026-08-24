@@ -17,7 +17,7 @@ export default function GalleryPage() {
         eyebrow="Our Gallery"
         title="A Visual Look at Our Work"
         description="Construction sites, finished projects, our team, and the machinery that gets it all done."
-        image="/images/hero1.avif"
+        image="/images/entada/six.jpeg"
       />
       <section className="py-24">
         <Container>
